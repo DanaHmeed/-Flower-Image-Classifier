@@ -45,15 +45,7 @@ image_path = 'path_to_flower.jpg'
 predictions = predict(image_path, model, top_k=5)
 print(predictions)
 
-## 🤝 Contributing
-Contributions are welcome! If you'd like to improve this project:
-
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes and commit (git commit -m "Description of changes")
-Push the branch (git push origin feature-branch)
-Open a Pull Request
-📜 License
+# 📜 License
 This project is licensed under the MIT License.
 
 
