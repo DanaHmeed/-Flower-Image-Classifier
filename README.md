@@ -28,11 +28,13 @@ The trained model demonstrates high accuracy on validation data, effectively dis
 
 ## ⚡ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/flower-image-classifier.git
+git clone https://github.com/DanaHmeed/flower-image-classifier.git
 cd flower-image-classifier
+
 2️⃣ Install Dependencies
 pip install -r requirements.txt
-🔍 How to Use
+
+## 🔍 How to Use
 1️⃣ Load the Trained Model
 import torch
 from model import load_model  
