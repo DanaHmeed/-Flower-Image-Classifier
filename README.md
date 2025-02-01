@@ -1,7 +1,5 @@
 
-Here's a well-structured README.md file for your GitHub repository, optimized for clarity and engagement:
-
-## 🌸 Flower Image Classifier
+### 🌸 Flower Image Classifier
 A deep learning-based image classification model trained to recognize different flower species using transfer learning.
 
 ## 📌 Project Overview
